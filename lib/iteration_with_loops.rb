@@ -9,9 +9,9 @@ def find_even_values(src)
     [7, 8, 9]
     ]
     
-puts array_of_arrays[0][1]
-puts array_of_arrays[1][0]
-puts array_of_arrays[1][2]
-puts array_of_arrays[2][1]
+p array_of_arrays[0][1]
+p array_of_arrays[1][0]
+p array_of_arrays[1][2]
+p array_of_arrays[2][1]
 
 end
